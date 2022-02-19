@@ -15,5 +15,5 @@ namespace Mango.Web.Models.Dto
         public string CategoryName { get; set; }
         [DisplayName("Url изображения")]
         public string ImageUrl { get; set; }
-    }
+    }    
 }
